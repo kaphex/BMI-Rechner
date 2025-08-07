@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BMI_Calculator</string>
+    <string name="menu_english">German</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">BMI Calculator</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Calculate BMI</string>
+    <string name="previous">Previous</string>
+    <string name="btn_calculate_BMI">Calculate BMI</string>
+    <string name="btn_reset">Reset</string>
+    <string name="description_text">Please enter your data</string>
+    <string name="bmi_label">BMI</string>
+    <string name="bmi_value_label">25</string>
+    <string name="bmi_meaning_label">Übergewichtg</string>
+    <string name="label_whtr">WHtR\nfor athletes</string>
+    <string name="gender_male">male</string>
+    <string name="gender_female">female</string>
+    <string name="age_label">Age</string>
+    <string name="weight_label">Weight</string>
+    <string name="waist_label">Waist</string>
+    <string name="height_label">Height</string>
+
+
+
+
+    <string name="lorem_ipsum">
+        Hallo Welt
+    </string>
+</resources>

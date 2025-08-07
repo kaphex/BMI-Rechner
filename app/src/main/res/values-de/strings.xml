@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">BMI_Rechner</string>
-    <string name="menu_english">German</string>
+    <string name="menu_english">Englisch</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">BMI Rechner</string>
     <string name="second_fragment_label">Second Fragment</string>
@@ -11,7 +11,7 @@
     <string name="description_text">Bitte geben Sie ihre Daten ein</string>
     <string name="bmi_label">BMI</string>
     <string name="bmi_value_label">25</string>
-    <string name="bmi_meaning_label">Übergewicht</string>
+    <string name="bmi_meaning_label">Übergewichtg</string>
     <string name="label_whtr">WHtR\nfür Sportler</string>
     <string name="gender_male">männlich</string>
     <string name="gender_female">weiblich</string>
@@ -19,7 +19,6 @@
     <string name="weight_label">Gewicht</string>
     <string name="waist_label">Bauchumfang</string>
     <string name="height_label">Größe</string>
-
 
 
     <string name="lorem_ipsum">
