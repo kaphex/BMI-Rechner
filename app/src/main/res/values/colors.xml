@@ -4,4 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="blue">#0000FF</color>
     <color name="screen_background">#009688</color>
+    <color name="description_background">#CDDC39</color>
+    <color name="cardview_BMI_Background">#F44336</color>
+    <color name="cardview_Reference_Table_Background">#00BCD4</color>
+    <color name="test">#4CAF50</color>
+    <color name="cardview_Strategy">#00BFE2</color>
 </resources>
